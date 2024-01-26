@@ -8,7 +8,6 @@ This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS,
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -43,7 +42,3 @@ This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS,
 ## Contributing
 
 If you would like to contribute to this project, feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License.
