@@ -27,7 +27,7 @@ This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS,
 
 ## Demo
 
-Check out the live demo [here](https://atharvadeokar21.github.io/Tic-Tac-Toe_Game/).
+Try the game live [here](https://atharvadeokar21.github.io/Tic-Tac-Toe_Game/).
 
 ## Installation
 
