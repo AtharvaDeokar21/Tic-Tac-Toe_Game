@@ -5,6 +5,7 @@ This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS,
 ## Table of Contents
 - [Features](#features)
 - [How to Play](#how-to-play)
+- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -23,6 +24,10 @@ This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS,
 4. The first player to get three in a row horizontally, vertically, or diagonally wins.
 5. Click the "Reset Game" button to start a new game.
 6. Click the "New Game" button to reset the game without refreshing the page.
+
+## Demo
+
+Check out the live demo [here](https://atharvadeokar21.github.io/Tic-Tac-Toe_Game/).
 
 ## Installation
 
